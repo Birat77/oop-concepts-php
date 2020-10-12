@@ -1,0 +1,6 @@
+always give type hint in function arguments
+eg. function name(string $name){
+    ...
+}
+or instance of Class
+...(Post $post)

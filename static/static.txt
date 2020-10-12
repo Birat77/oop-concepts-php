@@ -1,0 +1,6 @@
+access by scope res operator 
+eg
+User::func()
+for static variables inside class
+usage in function 
+self::$varname
